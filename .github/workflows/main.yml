@@ -4,7 +4,7 @@ on:
       - master
 
 job:
-  bulid:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@3
